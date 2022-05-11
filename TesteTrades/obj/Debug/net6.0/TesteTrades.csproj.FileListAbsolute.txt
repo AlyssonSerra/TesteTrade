@@ -1,0 +1,15 @@
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\bin\Debug\net6.0\TesteTrades.exe
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\bin\Debug\net6.0\TesteTrades.deps.json
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\bin\Debug\net6.0\TesteTrades.runtimeconfig.json
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\bin\Debug\net6.0\TesteTrades.dll
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\bin\Debug\net6.0\TesteTrades.pdb
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.csproj.AssemblyReference.cache
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.AssemblyInfoInputs.cache
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.AssemblyInfo.cs
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.csproj.CoreCompileInputs.cache
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.dll
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\refint\TesteTrades.dll
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.pdb
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\TesteTrades.genruntimeconfig.cache
+C:\Users\alyss\source\repos\TesteTrades\TesteTrades\obj\Debug\net6.0\ref\TesteTrades.dll
